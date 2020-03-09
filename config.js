@@ -1,0 +1,2 @@
+var appID   = "";
+var channel = ""; 
